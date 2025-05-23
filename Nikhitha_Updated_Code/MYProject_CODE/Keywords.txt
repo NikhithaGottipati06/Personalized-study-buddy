@@ -1,0 +1,5 @@
+1. Python is a high-level, versatile programming language known for its simplicity and readability. It is widely used for web development, data analysis, automation, and artificial intelligence.
+2. A compiler is a program that translates source code written in a high-level programming language into machine code or executable code. This allows the code to run directly on a computer's hardware.
+3. An interpreter is a program that executes code line by line, translating it into machine-readable instructions at runtime. It is commonly used for scripting and dynamic programming languages like Python and JavaScript.
+4. In object-oriented programming (OOP), a class is a blueprint or template for creating objects. It defines the attributes and methods that the objects created from the class will have.
+5. In object-oriented programming (OOP), objects are instances of a class that represent real-world entities. They contain attributes and methods defined by their class, allowing interaction and manipulation within a program.

@@ -1,0 +1,1001 @@
+S.No,Study Hours,Study Frequency,Study Subjects,Study Type,Revision Frequency,Difficulty Level,Track of Hours
+1,5,Weekly,Math,Online courses,Never,Easy,18
+2,1,Bi-weekly,Geography,Self-study,Weekly,Easy,45
+3,8,Bi-weekly,History,Self-study,Daily,Easy,15
+4,8,Daily,Math,Tutoring,Daily,Medium,5
+5,1,Monthly,English,Group study,Daily,Hard,45
+6,2,Bi-weekly,History,Tutoring,Never,Medium,11
+7,3,Bi-weekly,English,Online courses,Weekly,Medium,26
+8,5,Bi-weekly,History,Tutoring,Daily,Medium,48
+9,5,Bi-weekly,English,Self-study,Daily,Hard,37
+10,6,Weekly,English,Group study,Daily,Easy,47
+11,2,Bi-weekly,English,Online courses,Daily,Medium,26
+12,3,Bi-weekly,Science,Tutoring,Daily,Medium,43
+13,7,Bi-weekly,Geography,Self-study,Daily,Medium,28
+14,4,Daily,Math,Self-study,Daily,Hard,21
+15,3,Daily,Geography,Online courses,Never,Hard,13
+16,3,Monthly,Math,Online courses,Daily,Medium,7
+17,8,Bi-weekly,Math,Online courses,Weekly,Medium,42
+18,4,Daily,English,Tutoring,Daily,Easy,15
+19,2,Weekly,Math,Group study,Never,Medium,45
+20,5,Daily,Geography,Group study,Weekly,Hard,7
+21,5,Daily,English,Tutoring,Daily,Medium,44
+22,6,Daily,English,Online courses,Never,Easy,31
+23,7,Daily,English,Tutoring,Weekly,Medium,44
+24,4,Bi-weekly,Math,Group study,Daily,Easy,10
+25,7,Weekly,Science,Online courses,Never,Hard,41
+26,4,Bi-weekly,Geography,Tutoring,Weekly,Medium,46
+27,4,Monthly,Geography,Group study,Daily,Easy,29
+28,7,Weekly,Math,Online courses,Weekly,Medium,33
+29,2,Bi-weekly,English,Online courses,Weekly,Hard,21
+30,7,Weekly,Science,Tutoring,Daily,Easy,11
+31,5,Monthly,History,Tutoring,Daily,Easy,22
+32,8,Monthly,Geography,Group study,Weekly,Easy,38
+33,4,Weekly,Science,Online courses,Daily,Medium,49
+34,7,Weekly,Math,Online courses,Never,Medium,17
+35,3,Daily,English,Self-study,Weekly,Hard,17
+36,5,Daily,Science,Self-study,Weekly,Hard,38
+37,2,Weekly,Math,Group study,Weekly,Easy,40
+38,2,Weekly,Science,Self-study,Never,Hard,35
+39,2,Bi-weekly,Geography,Self-study,Never,Medium,32
+40,3,Daily,English,Self-study,Weekly,Medium,33
+41,4,Monthly,History,Group study,Daily,Medium,11
+42,4,Weekly,History,Group study,Weekly,Easy,45
+43,1,Daily,Geography,Group study,Never,Medium,23
+44,6,Monthly,Science,Self-study,Weekly,Medium,50
+45,8,Monthly,Math,Online courses,Daily,Hard,6
+46,3,Monthly,Geography,Self-study,Weekly,Easy,37
+47,4,Monthly,English,Online courses,Weekly,Easy,29
+48,8,Weekly,Geography,Online courses,Never,Hard,28
+49,3,Weekly,History,Online courses,Never,Medium,37
+50,6,Daily,Science,Online courses,Daily,Easy,49
+51,1,Weekly,English,Self-study,Never,Easy,47
+52,7,Monthly,English,Tutoring,Never,Easy,8
+53,2,Bi-weekly,History,Online courses,Daily,Hard,12
+54,4,Monthly,English,Online courses,Daily,Easy,36
+55,1,Bi-weekly,Science,Online courses,Weekly,Easy,46
+56,2,Monthly,English,Group study,Weekly,Easy,39
+57,4,Daily,English,Group study,Weekly,Medium,5
+58,6,Monthly,Science,Self-study,Weekly,Easy,22
+59,4,Bi-weekly,History,Self-study,Daily,Hard,27
+60,7,Daily,Math,Tutoring,Daily,Medium,21
+61,3,Daily,History,Group study,Never,Easy,27
+62,3,Monthly,Science,Self-study,Daily,Easy,47
+63,5,Bi-weekly,Science,Group study,Daily,Medium,39
+64,7,Bi-weekly,History,Group study,Weekly,Easy,43
+65,1,Bi-weekly,History,Tutoring,Weekly,Medium,35
+66,2,Bi-weekly,Geography,Self-study,Daily,Easy,41
+67,1,Bi-weekly,English,Online courses,Weekly,Hard,47
+68,1,Daily,History,Online courses,Daily,Hard,8
+69,7,Monthly,Science,Self-study,Daily,Easy,50
+70,3,Monthly,Math,Online courses,Daily,Hard,44
+71,7,Bi-weekly,English,Online courses,Never,Easy,37
+72,2,Weekly,Geography,Online courses,Weekly,Hard,42
+73,8,Daily,Science,Tutoring,Weekly,Easy,48
+74,3,Bi-weekly,English,Tutoring,Weekly,Medium,37
+75,1,Weekly,History,Online courses,Daily,Easy,37
+76,1,Weekly,Math,Online courses,Daily,Easy,9
+77,5,Daily,Geography,Self-study,Weekly,Easy,48
+78,5,Monthly,Math,Self-study,Daily,Easy,42
+79,2,Weekly,History,Self-study,Weekly,Easy,27
+80,8,Weekly,Science,Tutoring,Never,Medium,43
+81,1,Daily,English,Self-study,Daily,Hard,8
+82,7,Daily,English,Self-study,Daily,Medium,10
+83,8,Daily,History,Tutoring,Daily,Easy,49
+84,3,Weekly,Math,Group study,Weekly,Medium,35
+85,1,Weekly,History,Group study,Never,Easy,8
+86,1,Weekly,English,Self-study,Daily,Hard,38
+87,5,Bi-weekly,Science,Group study,Daily,Medium,36
+88,8,Bi-weekly,Science,Tutoring,Daily,Easy,41
+89,5,Monthly,English,Online courses,Never,Hard,25
+90,1,Daily,English,Tutoring,Weekly,Hard,19
+91,2,Monthly,English,Tutoring,Weekly,Hard,15
+92,2,Monthly,Geography,Online courses,Never,Medium,12
+93,3,Bi-weekly,Science,Group study,Weekly,Easy,28
+94,2,Weekly,Geography,Tutoring,Weekly,Hard,9
+95,2,Bi-weekly,History,Self-study,Daily,Medium,11
+96,4,Weekly,Math,Self-study,Daily,Easy,6
+97,3,Monthly,English,Online courses,Daily,Medium,6
+98,7,Daily,Geography,Self-study,Daily,Easy,29
+99,7,Monthly,Math,Tutoring,Never,Easy,32
+100,1,Weekly,Geography,Group study,Daily,Hard,28
+101,8,Weekly,History,Tutoring,Weekly,Hard,43
+102,7,Daily,Science,Group study,Never,Hard,12
+103,2,Bi-weekly,Geography,Tutoring,Weekly,Medium,17
+104,7,Bi-weekly,Math,Tutoring,Never,Hard,23
+105,3,Bi-weekly,History,Online courses,Weekly,Medium,22
+106,4,Monthly,Science,Tutoring,Weekly,Hard,23
+107,6,Bi-weekly,Science,Tutoring,Daily,Hard,50
+108,1,Monthly,Math,Group study,Weekly,Easy,48
+109,3,Daily,Science,Tutoring,Never,Hard,15
+110,1,Daily,Science,Group study,Daily,Medium,42
+111,6,Bi-weekly,Geography,Tutoring,Daily,Easy,36
+112,3,Monthly,Geography,Group study,Never,Hard,42
+113,2,Monthly,History,Tutoring,Daily,Medium,18
+114,7,Daily,English,Self-study,Weekly,Hard,36
+115,7,Bi-weekly,English,Self-study,Daily,Medium,5
+116,7,Daily,English,Tutoring,Daily,Easy,11
+117,2,Monthly,Math,Tutoring,Weekly,Medium,8
+118,2,Bi-weekly,History,Tutoring,Never,Easy,29
+119,4,Bi-weekly,Geography,Online courses,Daily,Hard,5
+120,6,Daily,Science,Tutoring,Weekly,Medium,17
+121,6,Daily,Science,Online courses,Daily,Medium,17
+122,1,Daily,English,Self-study,Never,Easy,22
+123,4,Daily,English,Group study,Never,Medium,45
+124,1,Daily,Geography,Group study,Daily,Hard,22
+125,2,Daily,English,Tutoring,Weekly,Hard,16
+126,4,Bi-weekly,English,Online courses,Daily,Easy,28
+127,5,Daily,Geography,Online courses,Weekly,Easy,36
+128,3,Monthly,Geography,Self-study,Daily,Easy,40
+129,8,Weekly,Geography,Tutoring,Weekly,Hard,44
+130,2,Weekly,Science,Self-study,Never,Easy,43
+131,3,Weekly,Science,Tutoring,Daily,Easy,40
+132,8,Weekly,English,Self-study,Weekly,Easy,27
+133,8,Weekly,English,Online courses,Daily,Easy,43
+134,6,Weekly,Science,Self-study,Daily,Hard,15
+135,4,Daily,Science,Group study,Daily,Medium,40
+136,6,Weekly,English,Group study,Weekly,Medium,29
+137,6,Bi-weekly,Science,Self-study,Weekly,Medium,23
+138,4,Bi-weekly,Science,Tutoring,Weekly,Easy,43
+139,2,Weekly,Science,Group study,Weekly,Medium,35
+140,2,Daily,Science,Group study,Daily,Easy,16
+141,8,Monthly,Math,Group study,Daily,Hard,44
+142,1,Bi-weekly,Science,Tutoring,Daily,Easy,48
+143,2,Monthly,Geography,Group study,Daily,Medium,40
+144,7,Monthly,English,Tutoring,Daily,Easy,27
+145,7,Bi-weekly,Geography,Group study,Daily,Hard,14
+146,1,Weekly,English,Self-study,Never,Hard,42
+147,2,Daily,English,Group study,Never,Easy,38
+148,5,Weekly,Geography,Self-study,Daily,Medium,27
+149,2,Weekly,Geography,Tutoring,Weekly,Medium,43
+150,1,Monthly,English,Group study,Weekly,Hard,30
+151,6,Daily,Math,Self-study,Daily,Medium,15
+152,5,Monthly,Science,Group study,Daily,Easy,44
+153,6,Weekly,Geography,Group study,Never,Easy,9
+154,1,Daily,Science,Self-study,Never,Hard,50
+155,4,Bi-weekly,Science,Tutoring,Weekly,Easy,10
+156,8,Bi-weekly,Math,Online courses,Weekly,Easy,48
+157,1,Daily,Geography,Group study,Daily,Medium,45
+158,6,Weekly,Math,Group study,Never,Hard,5
+159,4,Monthly,Science,Online courses,Never,Medium,48
+160,8,Daily,English,Online courses,Weekly,Medium,29
+161,8,Weekly,Science,Self-study,Daily,Easy,30
+162,7,Daily,Geography,Tutoring,Weekly,Hard,16
+163,7,Weekly,Science,Self-study,Never,Easy,38
+164,7,Bi-weekly,English,Tutoring,Daily,Medium,25
+165,6,Daily,Math,Self-study,Never,Hard,27
+166,5,Bi-weekly,Science,Self-study,Weekly,Hard,19
+167,3,Weekly,History,Online courses,Never,Hard,43
+168,2,Weekly,Geography,Self-study,Daily,Hard,43
+169,1,Daily,History,Online courses,Never,Medium,44
+170,8,Bi-weekly,English,Self-study,Daily,Medium,8
+171,7,Bi-weekly,History,Online courses,Daily,Hard,8
+172,8,Weekly,Geography,Group study,Weekly,Hard,50
+173,3,Weekly,History,Online courses,Weekly,Medium,25
+174,5,Monthly,Science,Self-study,Never,Medium,30
+175,7,Daily,English,Tutoring,Weekly,Easy,31
+176,2,Monthly,Science,Self-study,Never,Easy,33
+177,3,Bi-weekly,Science,Group study,Daily,Medium,23
+178,4,Monthly,History,Online courses,Daily,Hard,49
+179,2,Bi-weekly,Science,Self-study,Never,Medium,14
+180,7,Monthly,History,Group study,Weekly,Medium,47
+181,5,Bi-weekly,History,Tutoring,Weekly,Easy,22
+182,2,Bi-weekly,Science,Group study,Never,Hard,13
+183,6,Bi-weekly,Geography,Group study,Daily,Medium,43
+184,3,Weekly,History,Self-study,Weekly,Easy,41
+185,4,Bi-weekly,Geography,Online courses,Daily,Easy,38
+186,6,Monthly,Geography,Self-study,Weekly,Easy,14
+187,5,Monthly,English,Online courses,Daily,Medium,47
+188,1,Bi-weekly,History,Tutoring,Daily,Hard,27
+189,4,Weekly,Science,Self-study,Never,Easy,10
+190,5,Bi-weekly,Geography,Tutoring,Daily,Easy,34
+191,8,Daily,Science,Online courses,Weekly,Easy,32
+192,3,Bi-weekly,Math,Tutoring,Daily,Hard,10
+193,1,Weekly,Math,Group study,Weekly,Easy,26
+194,4,Monthly,English,Tutoring,Daily,Hard,30
+195,4,Bi-weekly,English,Group study,Daily,Medium,44
+196,3,Bi-weekly,History,Online courses,Daily,Medium,46
+197,2,Weekly,English,Self-study,Daily,Hard,6
+198,6,Daily,History,Online courses,Weekly,Easy,42
+199,3,Weekly,Math,Online courses,Never,Medium,23
+200,5,Daily,Science,Tutoring,Never,Easy,30
+201,7,Weekly,History,Tutoring,Weekly,Easy,23
+202,7,Bi-weekly,English,Tutoring,Weekly,Hard,42
+203,4,Weekly,Math,Self-study,Never,Hard,40
+204,1,Weekly,Math,Online courses,Weekly,Hard,38
+205,5,Weekly,Geography,Group study,Weekly,Medium,26
+206,7,Daily,Geography,Group study,Never,Hard,9
+207,2,Bi-weekly,Geography,Self-study,Weekly,Medium,24
+208,5,Monthly,Science,Self-study,Never,Medium,19
+209,4,Daily,History,Self-study,Daily,Medium,16
+210,1,Bi-weekly,English,Online courses,Never,Medium,40
+211,8,Daily,Geography,Online courses,Daily,Easy,27
+212,3,Daily,English,Self-study,Weekly,Hard,19
+213,2,Monthly,Math,Online courses,Never,Hard,24
+214,1,Weekly,History,Group study,Weekly,Hard,22
+215,2,Weekly,Geography,Group study,Never,Medium,23
+216,2,Weekly,Geography,Online courses,Never,Easy,30
+217,1,Weekly,Math,Group study,Daily,Hard,43
+218,3,Bi-weekly,English,Tutoring,Weekly,Easy,13
+219,6,Bi-weekly,Science,Group study,Weekly,Hard,31
+220,1,Daily,Science,Self-study,Daily,Easy,24
+221,4,Bi-weekly,Science,Group study,Never,Hard,11
+222,1,Weekly,Math,Tutoring,Daily,Easy,35
+223,1,Weekly,Science,Tutoring,Daily,Easy,48
+224,2,Daily,Science,Tutoring,Never,Medium,30
+225,7,Daily,History,Online courses,Weekly,Hard,29
+226,7,Weekly,History,Tutoring,Daily,Easy,17
+227,8,Monthly,Science,Online courses,Daily,Hard,6
+228,2,Weekly,English,Tutoring,Daily,Easy,25
+229,1,Bi-weekly,English,Tutoring,Weekly,Medium,17
+230,4,Bi-weekly,History,Group study,Daily,Easy,25
+231,6,Monthly,Geography,Self-study,Weekly,Easy,5
+232,3,Weekly,History,Tutoring,Never,Easy,26
+233,2,Monthly,Geography,Tutoring,Weekly,Hard,44
+234,3,Daily,English,Group study,Weekly,Easy,50
+235,4,Monthly,History,Group study,Never,Hard,33
+236,2,Daily,History,Tutoring,Weekly,Hard,25
+237,8,Bi-weekly,English,Group study,Daily,Easy,32
+238,5,Weekly,Geography,Tutoring,Never,Medium,29
+239,7,Weekly,English,Tutoring,Never,Medium,20
+240,2,Daily,English,Tutoring,Daily,Hard,31
+241,4,Monthly,Math,Self-study,Daily,Hard,44
+242,8,Monthly,English,Tutoring,Never,Easy,21
+243,7,Monthly,English,Online courses,Daily,Easy,13
+244,3,Daily,Science,Self-study,Weekly,Easy,13
+245,7,Weekly,English,Self-study,Weekly,Medium,13
+246,5,Bi-weekly,History,Tutoring,Weekly,Hard,22
+247,8,Daily,Science,Online courses,Daily,Hard,29
+248,2,Bi-weekly,Science,Tutoring,Weekly,Hard,5
+249,5,Weekly,Geography,Online courses,Never,Medium,46
+250,5,Monthly,Math,Online courses,Weekly,Medium,12
+251,1,Weekly,Math,Tutoring,Never,Hard,34
+252,6,Daily,History,Tutoring,Daily,Easy,27
+253,1,Monthly,Math,Online courses,Daily,Medium,46
+254,5,Weekly,History,Group study,Weekly,Medium,14
+255,7,Daily,Geography,Online courses,Never,Easy,25
+256,5,Bi-weekly,History,Group study,Weekly,Hard,13
+257,2,Monthly,History,Group study,Never,Medium,5
+258,5,Daily,Science,Online courses,Daily,Easy,10
+259,4,Bi-weekly,Science,Online courses,Never,Easy,12
+260,3,Bi-weekly,English,Online courses,Daily,Easy,9
+261,3,Daily,Science,Group study,Never,Hard,6
+262,1,Monthly,History,Online courses,Daily,Easy,23
+263,3,Weekly,History,Group study,Daily,Easy,44
+264,6,Daily,Science,Online courses,Weekly,Hard,35
+265,2,Monthly,Math,Tutoring,Daily,Medium,25
+266,1,Bi-weekly,History,Tutoring,Daily,Easy,13
+267,3,Weekly,Science,Tutoring,Never,Medium,32
+268,8,Daily,History,Tutoring,Weekly,Medium,40
+269,3,Monthly,History,Self-study,Daily,Hard,43
+270,5,Monthly,Science,Group study,Daily,Medium,50
+271,7,Bi-weekly,Science,Self-study,Daily,Easy,25
+272,8,Monthly,History,Self-study,Daily,Easy,29
+273,6,Daily,English,Tutoring,Never,Medium,15
+274,7,Daily,Geography,Online courses,Weekly,Hard,47
+275,7,Weekly,History,Online courses,Daily,Medium,31
+276,6,Weekly,Science,Self-study,Weekly,Medium,40
+277,2,Weekly,Geography,Online courses,Weekly,Hard,14
+278,5,Weekly,Geography,Self-study,Never,Medium,15
+279,5,Monthly,Science,Group study,Never,Medium,22
+280,7,Daily,English,Online courses,Never,Hard,7
+281,5,Weekly,Math,Tutoring,Weekly,Medium,27
+282,8,Monthly,History,Online courses,Never,Hard,21
+283,4,Weekly,History,Self-study,Weekly,Medium,20
+284,2,Bi-weekly,Science,Group study,Never,Medium,30
+285,3,Bi-weekly,English,Online courses,Never,Easy,35
+286,1,Daily,Science,Self-study,Daily,Easy,24
+287,3,Daily,Geography,Tutoring,Never,Hard,25
+288,2,Weekly,Science,Self-study,Daily,Easy,20
+289,3,Monthly,History,Online courses,Daily,Easy,8
+290,5,Weekly,History,Online courses,Weekly,Medium,20
+291,8,Bi-weekly,History,Tutoring,Weekly,Hard,35
+292,7,Weekly,Science,Group study,Never,Hard,7
+293,3,Daily,Geography,Tutoring,Never,Easy,24
+294,8,Daily,Science,Group study,Weekly,Hard,45
+295,5,Weekly,Science,Online courses,Never,Easy,40
+296,8,Weekly,Geography,Tutoring,Daily,Medium,20
+297,3,Daily,Math,Group study,Weekly,Medium,9
+298,6,Weekly,Geography,Group study,Daily,Easy,26
+299,6,Monthly,English,Group study,Daily,Easy,49
+300,4,Bi-weekly,Geography,Group study,Weekly,Medium,23
+301,5,Weekly,English,Online courses,Never,Hard,29
+302,1,Daily,History,Group study,Never,Hard,23
+303,4,Daily,Science,Self-study,Weekly,Hard,5
+304,8,Weekly,English,Online courses,Daily,Hard,43
+305,1,Bi-weekly,Math,Online courses,Daily,Medium,46
+306,8,Daily,Math,Online courses,Daily,Easy,26
+307,3,Monthly,History,Self-study,Daily,Medium,21
+308,5,Bi-weekly,History,Group study,Weekly,Easy,45
+309,1,Daily,English,Online courses,Weekly,Medium,10
+310,6,Daily,Geography,Group study,Daily,Medium,19
+311,5,Bi-weekly,English,Group study,Weekly,Medium,26
+312,3,Weekly,Math,Online courses,Never,Medium,24
+313,6,Monthly,History,Online courses,Daily,Medium,11
+314,4,Weekly,Geography,Self-study,Never,Medium,12
+315,6,Weekly,Science,Self-study,Daily,Medium,47
+316,8,Daily,History,Self-study,Weekly,Medium,26
+317,5,Daily,English,Self-study,Never,Easy,46
+318,1,Weekly,Geography,Group study,Daily,Easy,15
+319,8,Monthly,English,Self-study,Never,Easy,48
+320,8,Weekly,Math,Online courses,Daily,Medium,24
+321,2,Bi-weekly,Science,Online courses,Weekly,Hard,45
+322,3,Bi-weekly,English,Group study,Weekly,Medium,32
+323,6,Weekly,Math,Tutoring,Daily,Medium,12
+324,7,Daily,Geography,Tutoring,Daily,Medium,21
+325,6,Weekly,Math,Self-study,Daily,Easy,15
+326,4,Daily,English,Tutoring,Weekly,Easy,6
+327,8,Weekly,Science,Group study,Never,Easy,43
+328,4,Monthly,Geography,Online courses,Daily,Hard,13
+329,3,Monthly,Geography,Tutoring,Daily,Easy,31
+330,4,Bi-weekly,Science,Group study,Never,Hard,48
+331,8,Bi-weekly,Math,Group study,Weekly,Hard,36
+332,1,Monthly,Geography,Online courses,Never,Medium,35
+333,3,Daily,Geography,Online courses,Never,Easy,14
+334,3,Weekly,History,Online courses,Never,Hard,50
+335,7,Bi-weekly,Science,Tutoring,Daily,Easy,36
+336,1,Bi-weekly,History,Online courses,Daily,Medium,46
+337,6,Bi-weekly,Geography,Self-study,Never,Easy,13
+338,7,Daily,Geography,Self-study,Never,Hard,43
+339,1,Daily,Science,Tutoring,Daily,Hard,46
+340,3,Bi-weekly,History,Online courses,Never,Easy,19
+341,3,Weekly,English,Self-study,Never,Easy,28
+342,2,Monthly,Science,Group study,Daily,Medium,37
+343,6,Monthly,Science,Online courses,Never,Medium,20
+344,7,Daily,History,Online courses,Never,Medium,49
+345,8,Daily,English,Self-study,Weekly,Medium,13
+346,5,Daily,English,Online courses,Weekly,Medium,42
+347,5,Monthly,History,Tutoring,Never,Medium,8
+348,7,Daily,Math,Self-study,Never,Hard,8
+349,7,Bi-weekly,Science,Group study,Weekly,Hard,16
+350,7,Bi-weekly,Science,Online courses,Daily,Hard,41
+351,8,Monthly,English,Group study,Never,Medium,22
+352,5,Bi-weekly,Math,Group study,Weekly,Medium,21
+353,7,Weekly,English,Group study,Daily,Easy,32
+354,3,Monthly,Science,Group study,Daily,Easy,5
+355,6,Monthly,Geography,Self-study,Daily,Hard,16
+356,7,Daily,Science,Self-study,Daily,Easy,45
+357,8,Weekly,Math,Online courses,Weekly,Hard,24
+358,3,Weekly,Geography,Group study,Daily,Hard,20
+359,1,Weekly,Math,Group study,Daily,Hard,32
+360,4,Daily,Math,Group study,Daily,Medium,42
+361,2,Monthly,History,Online courses,Never,Hard,36
+362,2,Bi-weekly,History,Tutoring,Weekly,Easy,44
+363,6,Bi-weekly,Math,Tutoring,Weekly,Easy,12
+364,3,Daily,History,Group study,Weekly,Medium,34
+365,8,Weekly,Math,Group study,Weekly,Medium,15
+366,8,Weekly,Science,Group study,Never,Medium,41
+367,1,Weekly,Math,Self-study,Weekly,Medium,19
+368,3,Daily,History,Tutoring,Weekly,Easy,11
+369,8,Weekly,Math,Self-study,Weekly,Hard,9
+370,2,Weekly,Geography,Self-study,Weekly,Easy,11
+371,6,Monthly,Math,Tutoring,Daily,Medium,34
+372,3,Weekly,History,Tutoring,Never,Medium,49
+373,3,Daily,Science,Online courses,Weekly,Easy,34
+374,7,Bi-weekly,History,Online courses,Never,Hard,37
+375,1,Monthly,Math,Tutoring,Never,Easy,48
+376,2,Weekly,Geography,Tutoring,Never,Hard,17
+377,2,Monthly,Science,Online courses,Daily,Hard,50
+378,8,Daily,History,Self-study,Daily,Easy,8
+379,6,Weekly,Geography,Tutoring,Daily,Hard,10
+380,2,Monthly,Science,Tutoring,Never,Medium,38
+381,7,Daily,English,Self-study,Never,Medium,40
+382,4,Weekly,Geography,Tutoring,Never,Medium,29
+383,3,Weekly,Geography,Online courses,Daily,Easy,26
+384,6,Weekly,Science,Tutoring,Never,Easy,10
+385,3,Bi-weekly,Science,Self-study,Daily,Easy,43
+386,5,Weekly,Science,Group study,Daily,Medium,48
+387,5,Monthly,Math,Self-study,Daily,Medium,10
+388,1,Weekly,Science,Self-study,Weekly,Medium,32
+389,7,Weekly,Math,Tutoring,Weekly,Hard,12
+390,3,Monthly,Science,Online courses,Never,Medium,43
+391,8,Monthly,Geography,Self-study,Daily,Medium,28
+392,2,Bi-weekly,English,Tutoring,Never,Medium,9
+393,4,Weekly,Science,Group study,Never,Medium,11
+394,6,Monthly,Science,Group study,Weekly,Hard,27
+395,8,Weekly,Math,Tutoring,Daily,Hard,11
+396,7,Monthly,Science,Online courses,Weekly,Hard,30
+397,8,Daily,Math,Self-study,Daily,Medium,12
+398,3,Bi-weekly,Math,Group study,Weekly,Easy,41
+399,2,Bi-weekly,English,Group study,Weekly,Medium,17
+400,7,Daily,Math,Self-study,Daily,Easy,39
+401,3,Weekly,History,Tutoring,Weekly,Medium,30
+402,4,Monthly,Math,Group study,Never,Hard,12
+403,7,Monthly,Math,Tutoring,Never,Medium,8
+404,6,Weekly,Math,Group study,Weekly,Medium,32
+405,3,Weekly,Geography,Self-study,Weekly,Medium,6
+406,8,Daily,Geography,Self-study,Daily,Easy,28
+407,3,Weekly,History,Self-study,Weekly,Medium,40
+408,6,Bi-weekly,Math,Online courses,Never,Hard,36
+409,4,Monthly,History,Online courses,Daily,Easy,18
+410,2,Weekly,Science,Tutoring,Daily,Easy,14
+411,2,Weekly,Math,Online courses,Daily,Easy,8
+412,1,Weekly,Geography,Online courses,Daily,Medium,7
+413,4,Monthly,Math,Group study,Weekly,Medium,40
+414,6,Bi-weekly,Science,Online courses,Weekly,Easy,26
+415,6,Bi-weekly,Science,Online courses,Daily,Medium,49
+416,7,Bi-weekly,History,Tutoring,Weekly,Hard,36
+417,7,Monthly,Science,Online courses,Daily,Medium,14
+418,8,Daily,Math,Self-study,Weekly,Easy,42
+419,2,Daily,Science,Online courses,Never,Hard,42
+420,6,Weekly,Math,Online courses,Never,Easy,29
+421,5,Weekly,English,Self-study,Weekly,Easy,29
+422,1,Bi-weekly,Geography,Group study,Daily,Medium,12
+423,2,Weekly,History,Self-study,Daily,Hard,11
+424,3,Monthly,Math,Tutoring,Weekly,Medium,7
+425,1,Monthly,English,Group study,Weekly,Easy,50
+426,4,Monthly,Science,Self-study,Daily,Medium,44
+427,4,Daily,Science,Online courses,Weekly,Medium,36
+428,2,Weekly,Science,Self-study,Daily,Hard,25
+429,4,Bi-weekly,Science,Online courses,Never,Hard,40
+430,4,Daily,Science,Tutoring,Weekly,Easy,14
+431,5,Bi-weekly,History,Self-study,Daily,Easy,27
+432,8,Weekly,History,Group study,Never,Easy,31
+433,4,Bi-weekly,English,Group study,Daily,Easy,47
+434,8,Daily,History,Group study,Weekly,Medium,11
+435,4,Monthly,English,Online courses,Daily,Easy,38
+436,2,Weekly,Math,Tutoring,Never,Medium,31
+437,4,Weekly,History,Online courses,Never,Medium,38
+438,8,Daily,Math,Online courses,Daily,Medium,25
+439,5,Daily,Geography,Online courses,Daily,Hard,46
+440,6,Monthly,Math,Group study,Never,Hard,5
+441,4,Weekly,Science,Tutoring,Weekly,Medium,18
+442,4,Monthly,English,Self-study,Weekly,Easy,46
+443,4,Daily,Geography,Group study,Never,Hard,5
+444,5,Bi-weekly,Science,Group study,Never,Medium,12
+445,4,Daily,Math,Self-study,Weekly,Easy,32
+446,8,Bi-weekly,History,Group study,Weekly,Easy,41
+447,2,Monthly,Science,Group study,Weekly,Easy,40
+448,1,Monthly,English,Self-study,Never,Medium,17
+449,5,Monthly,Science,Online courses,Never,Easy,11
+450,4,Monthly,Geography,Online courses,Weekly,Easy,47
+451,5,Monthly,History,Self-study,Daily,Medium,17
+452,7,Weekly,English,Self-study,Daily,Medium,15
+453,3,Monthly,Math,Self-study,Weekly,Hard,23
+454,4,Bi-weekly,English,Group study,Weekly,Easy,42
+455,1,Daily,English,Tutoring,Weekly,Hard,10
+456,6,Monthly,English,Online courses,Never,Easy,16
+457,6,Monthly,History,Online courses,Weekly,Easy,13
+458,7,Weekly,English,Online courses,Weekly,Medium,43
+459,5,Monthly,Science,Tutoring,Daily,Medium,45
+460,1,Monthly,Science,Tutoring,Never,Easy,7
+461,3,Weekly,Geography,Online courses,Daily,Easy,22
+462,8,Weekly,Science,Tutoring,Daily,Easy,19
+463,7,Monthly,History,Tutoring,Weekly,Medium,47
+464,8,Monthly,English,Group study,Never,Easy,49
+465,2,Monthly,Math,Group study,Daily,Hard,35
+466,8,Bi-weekly,Math,Online courses,Daily,Medium,37
+467,5,Monthly,Math,Tutoring,Never,Easy,38
+468,3,Monthly,Math,Group study,Never,Medium,7
+469,2,Weekly,History,Online courses,Never,Easy,38
+470,7,Bi-weekly,Science,Self-study,Daily,Hard,23
+471,4,Bi-weekly,Geography,Tutoring,Daily,Easy,20
+472,4,Daily,Geography,Online courses,Daily,Hard,50
+473,8,Daily,English,Online courses,Weekly,Hard,32
+474,2,Daily,Science,Tutoring,Weekly,Hard,11
+475,6,Daily,Geography,Online courses,Never,Medium,50
+476,6,Weekly,Math,Group study,Never,Hard,49
+477,6,Bi-weekly,Math,Tutoring,Weekly,Medium,48
+478,7,Weekly,Science,Online courses,Weekly,Easy,50
+479,4,Bi-weekly,History,Tutoring,Daily,Easy,17
+480,3,Monthly,Geography,Self-study,Never,Medium,19
+481,5,Daily,History,Self-study,Weekly,Medium,41
+482,7,Monthly,Math,Online courses,Daily,Medium,17
+483,1,Monthly,Geography,Self-study,Never,Easy,50
+484,1,Bi-weekly,Math,Group study,Weekly,Easy,20
+485,1,Monthly,History,Online courses,Weekly,Easy,24
+486,1,Daily,Geography,Online courses,Never,Medium,18
+487,7,Weekly,History,Self-study,Daily,Medium,7
+488,5,Weekly,English,Group study,Daily,Easy,29
+489,8,Monthly,Geography,Self-study,Daily,Hard,22
+490,3,Monthly,Math,Self-study,Never,Hard,18
+491,6,Bi-weekly,Science,Self-study,Weekly,Easy,7
+492,4,Weekly,English,Online courses,Weekly,Hard,17
+493,6,Weekly,English,Group study,Daily,Easy,23
+494,3,Weekly,Math,Group study,Never,Easy,49
+495,6,Bi-weekly,History,Online courses,Daily,Hard,42
+496,2,Monthly,Geography,Group study,Never,Hard,45
+497,1,Bi-weekly,History,Tutoring,Weekly,Easy,25
+498,8,Bi-weekly,Science,Self-study,Weekly,Hard,44
+499,6,Bi-weekly,Geography,Self-study,Weekly,Hard,15
+500,1,Monthly,History,Group study,Never,Medium,32
+501,1,Bi-weekly,English,Tutoring,Daily,Hard,39
+502,8,Daily,Math,Online courses,Never,Hard,47
+503,1,Bi-weekly,History,Self-study,Never,Easy,8
+504,8,Bi-weekly,Science,Tutoring,Daily,Hard,37
+505,1,Weekly,Math,Group study,Never,Easy,15
+506,3,Daily,Math,Group study,Weekly,Hard,21
+507,7,Bi-weekly,Math,Group study,Daily,Hard,41
+508,8,Bi-weekly,History,Online courses,Daily,Hard,10
+509,4,Daily,History,Tutoring,Weekly,Hard,19
+510,6,Monthly,History,Self-study,Weekly,Easy,46
+511,8,Monthly,Science,Tutoring,Daily,Easy,21
+512,1,Bi-weekly,Geography,Self-study,Weekly,Easy,14
+513,1,Daily,Science,Self-study,Daily,Medium,31
+514,6,Monthly,English,Group study,Weekly,Medium,17
+515,4,Bi-weekly,Science,Group study,Daily,Hard,38
+516,2,Weekly,English,Online courses,Weekly,Medium,11
+517,4,Daily,English,Online courses,Weekly,Hard,50
+518,6,Bi-weekly,Geography,Self-study,Daily,Medium,20
+519,1,Bi-weekly,Science,Tutoring,Weekly,Medium,15
+520,4,Weekly,English,Group study,Never,Medium,23
+521,7,Daily,Geography,Group study,Never,Medium,47
+522,7,Daily,Math,Tutoring,Weekly,Hard,30
+523,2,Daily,Math,Online courses,Daily,Medium,38
+524,8,Bi-weekly,Math,Group study,Daily,Hard,40
+525,3,Bi-weekly,Science,Tutoring,Never,Easy,31
+526,5,Daily,Math,Tutoring,Never,Easy,28
+527,5,Daily,Geography,Self-study,Daily,Hard,18
+528,2,Monthly,History,Self-study,Weekly,Easy,37
+529,6,Monthly,Math,Tutoring,Weekly,Easy,12
+530,2,Monthly,History,Self-study,Never,Medium,15
+531,7,Monthly,Math,Self-study,Daily,Medium,48
+532,4,Weekly,History,Tutoring,Never,Easy,7
+533,3,Monthly,Science,Self-study,Never,Easy,23
+534,4,Monthly,Science,Group study,Weekly,Easy,35
+535,8,Monthly,History,Self-study,Weekly,Easy,41
+536,6,Bi-weekly,Geography,Group study,Never,Hard,27
+537,6,Monthly,History,Tutoring,Daily,Medium,42
+538,6,Bi-weekly,Science,Online courses,Daily,Hard,22
+539,2,Weekly,Science,Self-study,Weekly,Easy,41
+540,2,Bi-weekly,Math,Self-study,Daily,Hard,10
+541,8,Monthly,English,Online courses,Daily,Hard,13
+542,1,Monthly,English,Group study,Never,Medium,36
+543,7,Bi-weekly,Science,Online courses,Weekly,Easy,47
+544,3,Daily,English,Group study,Daily,Hard,7
+545,5,Daily,Math,Self-study,Never,Easy,50
+546,3,Monthly,English,Group study,Weekly,Hard,47
+547,5,Bi-weekly,Science,Self-study,Daily,Easy,48
+548,5,Daily,Geography,Tutoring,Never,Hard,24
+549,7,Daily,Geography,Self-study,Daily,Medium,6
+550,7,Monthly,Science,Tutoring,Weekly,Easy,19
+551,7,Daily,Science,Tutoring,Daily,Easy,34
+552,6,Monthly,English,Group study,Daily,Medium,7
+553,2,Daily,English,Self-study,Weekly,Medium,35
+554,1,Bi-weekly,Science,Tutoring,Daily,Easy,24
+555,4,Monthly,Math,Self-study,Weekly,Hard,44
+556,7,Daily,Math,Tutoring,Weekly,Hard,10
+557,7,Monthly,English,Tutoring,Weekly,Easy,9
+558,1,Monthly,English,Online courses,Weekly,Medium,13
+559,3,Monthly,Geography,Tutoring,Weekly,Hard,31
+560,1,Monthly,Science,Tutoring,Weekly,Hard,44
+561,4,Bi-weekly,English,Group study,Daily,Easy,29
+562,7,Weekly,Science,Group study,Daily,Hard,7
+563,2,Daily,Science,Online courses,Daily,Easy,44
+564,6,Monthly,History,Tutoring,Weekly,Medium,32
+565,3,Weekly,Science,Group study,Weekly,Hard,34
+566,3,Weekly,Geography,Online courses,Never,Medium,16
+567,1,Monthly,English,Self-study,Daily,Easy,34
+568,2,Weekly,Science,Group study,Weekly,Hard,17
+569,4,Monthly,Math,Tutoring,Weekly,Easy,22
+570,7,Bi-weekly,History,Tutoring,Weekly,Easy,45
+571,1,Monthly,Geography,Tutoring,Weekly,Medium,23
+572,8,Monthly,Geography,Tutoring,Daily,Easy,43
+573,8,Daily,Science,Self-study,Daily,Hard,35
+574,5,Weekly,Geography,Self-study,Never,Hard,45
+575,6,Bi-weekly,Geography,Self-study,Daily,Medium,8
+576,7,Bi-weekly,Math,Group study,Weekly,Easy,38
+577,2,Monthly,English,Online courses,Daily,Medium,41
+578,3,Bi-weekly,Science,Group study,Daily,Hard,7
+579,6,Weekly,Math,Self-study,Weekly,Hard,47
+580,5,Monthly,Geography,Tutoring,Never,Easy,27
+581,1,Monthly,Geography,Group study,Never,Medium,27
+582,3,Weekly,History,Group study,Daily,Medium,15
+583,6,Bi-weekly,Science,Group study,Weekly,Medium,29
+584,5,Weekly,Geography,Tutoring,Daily,Easy,27
+585,2,Monthly,Math,Group study,Never,Hard,9
+586,3,Bi-weekly,Math,Self-study,Weekly,Easy,45
+587,4,Monthly,English,Tutoring,Weekly,Hard,36
+588,8,Bi-weekly,Science,Self-study,Weekly,Hard,46
+589,5,Bi-weekly,Math,Group study,Never,Hard,49
+590,4,Weekly,Geography,Self-study,Weekly,Hard,8
+591,1,Daily,Science,Self-study,Daily,Hard,5
+592,3,Weekly,Geography,Online courses,Daily,Easy,20
+593,4,Weekly,Math,Self-study,Daily,Easy,31
+594,6,Bi-weekly,Geography,Self-study,Never,Medium,39
+595,2,Daily,Math,Tutoring,Never,Medium,30
+596,1,Bi-weekly,Science,Online courses,Never,Easy,40
+597,3,Weekly,English,Self-study,Daily,Hard,35
+598,8,Weekly,Science,Tutoring,Weekly,Hard,50
+599,7,Daily,Geography,Online courses,Weekly,Hard,49
+600,3,Monthly,Science,Tutoring,Weekly,Hard,38
+601,6,Weekly,Geography,Online courses,Weekly,Easy,7
+602,3,Daily,Geography,Self-study,Never,Medium,43
+603,2,Bi-weekly,Science,Self-study,Daily,Easy,18
+604,3,Weekly,English,Tutoring,Weekly,Medium,39
+605,5,Weekly,Science,Group study,Never,Hard,11
+606,8,Bi-weekly,Geography,Group study,Weekly,Medium,46
+607,2,Daily,Math,Tutoring,Weekly,Hard,43
+608,2,Daily,Science,Tutoring,Never,Hard,31
+609,1,Bi-weekly,Geography,Online courses,Daily,Medium,44
+610,7,Bi-weekly,English,Online courses,Daily,Medium,44
+611,4,Daily,Science,Group study,Weekly,Easy,10
+612,4,Monthly,Math,Tutoring,Weekly,Easy,28
+613,5,Monthly,Geography,Online courses,Weekly,Hard,40
+614,2,Weekly,English,Tutoring,Never,Easy,43
+615,2,Weekly,Geography,Group study,Weekly,Hard,31
+616,8,Bi-weekly,Science,Tutoring,Daily,Easy,21
+617,1,Weekly,Science,Online courses,Weekly,Easy,50
+618,5,Bi-weekly,Geography,Tutoring,Weekly,Hard,27
+619,2,Weekly,Math,Tutoring,Weekly,Easy,16
+620,8,Bi-weekly,English,Online courses,Daily,Easy,17
+621,6,Weekly,Science,Self-study,Never,Easy,38
+622,3,Bi-weekly,English,Group study,Never,Medium,46
+623,5,Bi-weekly,Science,Tutoring,Weekly,Medium,48
+624,1,Bi-weekly,History,Self-study,Daily,Hard,17
+625,7,Monthly,History,Group study,Never,Easy,16
+626,4,Bi-weekly,Math,Online courses,Never,Hard,43
+627,7,Bi-weekly,Geography,Online courses,Weekly,Easy,37
+628,4,Weekly,Math,Online courses,Never,Hard,5
+629,3,Weekly,History,Group study,Weekly,Hard,48
+630,8,Daily,Geography,Self-study,Daily,Hard,33
+631,6,Daily,Geography,Tutoring,Weekly,Hard,12
+632,6,Bi-weekly,History,Self-study,Weekly,Medium,40
+633,5,Weekly,Geography,Online courses,Daily,Hard,17
+634,2,Daily,Geography,Online courses,Weekly,Easy,6
+635,8,Daily,Geography,Tutoring,Never,Medium,27
+636,1,Daily,English,Self-study,Daily,Medium,34
+637,7,Bi-weekly,Science,Online courses,Daily,Easy,21
+638,6,Bi-weekly,History,Tutoring,Weekly,Medium,35
+639,4,Bi-weekly,History,Group study,Weekly,Medium,34
+640,7,Weekly,English,Self-study,Never,Easy,23
+641,6,Monthly,Math,Group study,Weekly,Easy,22
+642,6,Weekly,Science,Online courses,Daily,Easy,20
+643,1,Bi-weekly,Science,Group study,Never,Easy,16
+644,3,Weekly,History,Self-study,Daily,Medium,44
+645,6,Monthly,Geography,Group study,Weekly,Easy,35
+646,6,Monthly,English,Self-study,Daily,Medium,50
+647,3,Daily,Math,Tutoring,Never,Hard,7
+648,5,Daily,Math,Online courses,Never,Easy,29
+649,1,Bi-weekly,English,Online courses,Never,Hard,28
+650,4,Bi-weekly,History,Self-study,Weekly,Hard,39
+651,4,Weekly,Math,Group study,Never,Medium,10
+652,1,Daily,English,Self-study,Daily,Hard,11
+653,7,Daily,English,Online courses,Daily,Medium,14
+654,2,Daily,Geography,Tutoring,Daily,Hard,36
+655,8,Monthly,Science,Online courses,Never,Hard,45
+656,1,Bi-weekly,Math,Group study,Never,Medium,9
+657,5,Bi-weekly,English,Tutoring,Daily,Hard,44
+658,1,Daily,Science,Tutoring,Never,Easy,17
+659,5,Weekly,English,Group study,Never,Easy,28
+660,3,Daily,Geography,Group study,Never,Easy,9
+661,8,Bi-weekly,Science,Self-study,Weekly,Easy,21
+662,5,Bi-weekly,Geography,Group study,Daily,Hard,37
+663,3,Weekly,Science,Tutoring,Daily,Easy,29
+664,3,Weekly,Geography,Tutoring,Weekly,Hard,27
+665,5,Weekly,History,Group study,Daily,Easy,39
+666,4,Bi-weekly,Science,Online courses,Daily,Hard,47
+667,5,Bi-weekly,Geography,Group study,Never,Easy,13
+668,3,Bi-weekly,Math,Group study,Weekly,Medium,44
+669,1,Bi-weekly,Geography,Self-study,Daily,Easy,39
+670,4,Bi-weekly,Geography,Self-study,Weekly,Hard,36
+671,1,Bi-weekly,Math,Self-study,Weekly,Medium,42
+672,6,Weekly,History,Online courses,Weekly,Medium,23
+673,8,Monthly,Math,Online courses,Never,Easy,24
+674,4,Weekly,Science,Group study,Daily,Hard,31
+675,8,Monthly,Science,Self-study,Weekly,Hard,24
+676,6,Weekly,Geography,Self-study,Daily,Hard,47
+677,5,Weekly,Math,Group study,Daily,Hard,33
+678,6,Bi-weekly,English,Group study,Weekly,Hard,28
+679,2,Weekly,Math,Group study,Never,Hard,32
+680,5,Bi-weekly,Science,Group study,Daily,Hard,33
+681,5,Bi-weekly,English,Self-study,Never,Hard,8
+682,2,Weekly,History,Online courses,Never,Medium,12
+683,4,Daily,Geography,Self-study,Weekly,Hard,18
+684,3,Bi-weekly,English,Tutoring,Daily,Medium,32
+685,7,Monthly,Science,Self-study,Never,Medium,39
+686,5,Monthly,Science,Group study,Daily,Hard,46
+687,6,Bi-weekly,Geography,Group study,Weekly,Easy,32
+688,8,Weekly,History,Group study,Never,Hard,23
+689,2,Daily,Geography,Group study,Weekly,Hard,33
+690,5,Bi-weekly,Math,Online courses,Weekly,Easy,49
+691,8,Bi-weekly,Math,Self-study,Daily,Easy,27
+692,6,Bi-weekly,Math,Tutoring,Daily,Easy,16
+693,6,Bi-weekly,Math,Group study,Daily,Easy,12
+694,8,Weekly,English,Self-study,Never,Easy,50
+695,6,Monthly,Geography,Self-study,Daily,Easy,42
+696,4,Weekly,English,Group study,Weekly,Medium,43
+697,5,Daily,Geography,Self-study,Weekly,Easy,23
+698,2,Bi-weekly,Science,Self-study,Daily,Easy,5
+699,6,Bi-weekly,Geography,Self-study,Weekly,Easy,50
+700,8,Daily,Geography,Tutoring,Daily,Hard,11
+701,5,Daily,Science,Online courses,Daily,Medium,29
+702,8,Monthly,English,Group study,Never,Easy,50
+703,3,Monthly,English,Online courses,Never,Medium,44
+704,2,Weekly,Science,Group study,Never,Hard,34
+705,4,Weekly,History,Tutoring,Daily,Medium,35
+706,2,Bi-weekly,History,Self-study,Daily,Medium,45
+707,5,Bi-weekly,Science,Group study,Weekly,Hard,24
+708,5,Daily,Science,Group study,Never,Medium,5
+709,4,Weekly,Math,Self-study,Weekly,Hard,24
+710,2,Monthly,History,Group study,Daily,Medium,14
+711,7,Monthly,Geography,Tutoring,Weekly,Hard,47
+712,4,Weekly,Geography,Tutoring,Never,Easy,9
+713,4,Daily,Science,Online courses,Daily,Medium,28
+714,2,Monthly,History,Self-study,Never,Hard,27
+715,5,Bi-weekly,Geography,Online courses,Daily,Easy,46
+716,6,Monthly,Math,Online courses,Weekly,Hard,46
+717,8,Weekly,History,Group study,Weekly,Medium,42
+718,1,Monthly,English,Self-study,Daily,Easy,26
+719,8,Daily,Science,Online courses,Never,Medium,37
+720,5,Monthly,English,Tutoring,Daily,Hard,15
+721,5,Monthly,Geography,Online courses,Weekly,Easy,10
+722,4,Bi-weekly,Science,Tutoring,Daily,Hard,22
+723,6,Daily,Science,Self-study,Weekly,Easy,16
+724,3,Bi-weekly,Science,Tutoring,Never,Hard,37
+725,7,Weekly,Science,Tutoring,Never,Easy,44
+726,1,Bi-weekly,Science,Self-study,Daily,Hard,34
+727,4,Weekly,Math,Self-study,Never,Medium,34
+728,1,Daily,Math,Tutoring,Never,Hard,41
+729,5,Daily,History,Online courses,Daily,Medium,35
+730,3,Bi-weekly,Math,Online courses,Weekly,Hard,44
+731,3,Bi-weekly,History,Online courses,Never,Hard,45
+732,1,Daily,Geography,Group study,Weekly,Medium,20
+733,7,Daily,Math,Online courses,Weekly,Hard,28
+734,4,Weekly,Science,Tutoring,Weekly,Hard,13
+735,2,Monthly,Math,Self-study,Daily,Medium,17
+736,6,Daily,Science,Online courses,Weekly,Hard,29
+737,6,Daily,Math,Group study,Daily,Easy,15
+738,5,Bi-weekly,History,Self-study,Daily,Medium,13
+739,7,Weekly,History,Tutoring,Never,Easy,22
+740,5,Bi-weekly,Science,Tutoring,Weekly,Easy,11
+741,5,Bi-weekly,Science,Online courses,Weekly,Easy,15
+742,5,Monthly,History,Tutoring,Weekly,Medium,41
+743,7,Daily,Math,Group study,Never,Medium,42
+744,8,Monthly,History,Self-study,Never,Hard,22
+745,1,Weekly,Geography,Self-study,Daily,Easy,47
+746,2,Monthly,Math,Tutoring,Daily,Medium,47
+747,1,Weekly,History,Tutoring,Weekly,Medium,29
+748,4,Monthly,English,Group study,Weekly,Easy,40
+749,7,Bi-weekly,Geography,Online courses,Never,Medium,49
+750,4,Bi-weekly,Science,Self-study,Never,Hard,37
+751,7,Monthly,Geography,Self-study,Never,Hard,17
+752,2,Weekly,English,Group study,Never,Hard,34
+753,8,Weekly,History,Group study,Daily,Medium,17
+754,3,Bi-weekly,English,Self-study,Daily,Medium,27
+755,4,Monthly,History,Online courses,Daily,Medium,25
+756,6,Monthly,Math,Self-study,Weekly,Medium,23
+757,2,Bi-weekly,History,Group study,Weekly,Hard,33
+758,5,Weekly,History,Self-study,Never,Easy,43
+759,1,Weekly,Math,Group study,Daily,Medium,27
+760,8,Daily,Math,Self-study,Daily,Medium,23
+761,4,Daily,Math,Self-study,Weekly,Hard,41
+762,3,Daily,Science,Self-study,Weekly,Hard,5
+763,6,Weekly,Science,Online courses,Weekly,Easy,48
+764,7,Monthly,Math,Self-study,Never,Easy,38
+765,1,Bi-weekly,Geography,Group study,Never,Hard,34
+766,3,Monthly,Math,Tutoring,Never,Hard,47
+767,4,Bi-weekly,Science,Online courses,Weekly,Medium,15
+768,3,Weekly,Math,Self-study,Daily,Easy,10
+769,2,Monthly,Geography,Tutoring,Daily,Hard,5
+770,3,Weekly,Geography,Self-study,Daily,Hard,39
+771,8,Bi-weekly,Science,Self-study,Never,Hard,31
+772,6,Weekly,Geography,Tutoring,Never,Easy,46
+773,4,Weekly,English,Online courses,Daily,Easy,38
+774,4,Daily,Science,Group study,Never,Hard,9
+775,3,Bi-weekly,Science,Self-study,Daily,Hard,34
+776,7,Bi-weekly,English,Self-study,Daily,Hard,11
+777,3,Monthly,English,Group study,Never,Medium,50
+778,7,Weekly,Math,Tutoring,Never,Hard,46
+779,8,Weekly,Math,Self-study,Never,Medium,8
+780,1,Monthly,Geography,Tutoring,Daily,Easy,43
+781,2,Monthly,Math,Group study,Never,Easy,49
+782,1,Monthly,Math,Tutoring,Daily,Easy,20
+783,1,Bi-weekly,Geography,Online courses,Never,Hard,11
+784,8,Daily,Geography,Tutoring,Daily,Easy,31
+785,7,Weekly,English,Tutoring,Daily,Hard,8
+786,5,Weekly,Math,Self-study,Daily,Easy,31
+787,7,Weekly,English,Self-study,Weekly,Hard,8
+788,7,Monthly,Geography,Tutoring,Daily,Easy,44
+789,4,Weekly,Geography,Self-study,Weekly,Hard,48
+790,1,Daily,History,Online courses,Weekly,Hard,7
+791,3,Daily,Geography,Online courses,Weekly,Medium,9
+792,7,Bi-weekly,English,Online courses,Weekly,Medium,20
+793,1,Bi-weekly,Science,Group study,Weekly,Easy,43
+794,8,Bi-weekly,English,Self-study,Daily,Hard,5
+795,1,Daily,Math,Online courses,Weekly,Easy,45
+796,2,Bi-weekly,History,Self-study,Weekly,Easy,16
+797,5,Bi-weekly,Science,Group study,Weekly,Medium,40
+798,8,Weekly,History,Self-study,Daily,Hard,16
+799,6,Weekly,Geography,Tutoring,Never,Medium,40
+800,2,Weekly,Geography,Online courses,Never,Medium,13
+801,4,Daily,History,Self-study,Weekly,Easy,12
+802,7,Bi-weekly,Math,Group study,Weekly,Hard,45
+803,4,Bi-weekly,Geography,Group study,Weekly,Hard,30
+804,8,Bi-weekly,English,Group study,Never,Easy,12
+805,4,Monthly,Geography,Self-study,Weekly,Medium,47
+806,6,Daily,History,Online courses,Never,Medium,39
+807,5,Weekly,English,Online courses,Daily,Easy,28
+808,4,Bi-weekly,English,Group study,Never,Medium,50
+809,4,Monthly,English,Group study,Weekly,Hard,15
+810,7,Weekly,Geography,Tutoring,Weekly,Hard,21
+811,4,Daily,Science,Online courses,Weekly,Medium,38
+812,2,Bi-weekly,Science,Tutoring,Weekly,Easy,22
+813,4,Daily,Math,Online courses,Never,Medium,45
+814,8,Daily,Geography,Online courses,Never,Hard,11
+815,8,Bi-weekly,Math,Tutoring,Never,Medium,36
+816,4,Daily,History,Tutoring,Weekly,Hard,39
+817,2,Daily,History,Tutoring,Never,Hard,27
+818,5,Daily,History,Tutoring,Daily,Medium,29
+819,5,Daily,Science,Tutoring,Never,Medium,10
+820,7,Bi-weekly,Science,Online courses,Never,Hard,24
+821,4,Daily,History,Self-study,Weekly,Easy,26
+822,5,Daily,Math,Online courses,Weekly,Easy,12
+823,4,Daily,Geography,Tutoring,Daily,Medium,9
+824,7,Daily,English,Online courses,Weekly,Easy,38
+825,8,Bi-weekly,English,Group study,Daily,Hard,17
+826,5,Monthly,History,Tutoring,Never,Easy,33
+827,4,Bi-weekly,English,Tutoring,Daily,Easy,10
+828,5,Bi-weekly,Geography,Online courses,Daily,Hard,10
+829,2,Daily,Math,Online courses,Never,Medium,24
+830,1,Daily,Geography,Group study,Never,Easy,24
+831,3,Bi-weekly,Math,Self-study,Weekly,Medium,19
+832,7,Bi-weekly,History,Online courses,Daily,Hard,31
+833,7,Daily,Geography,Online courses,Weekly,Medium,6
+834,6,Monthly,Science,Group study,Weekly,Easy,7
+835,7,Daily,History,Self-study,Never,Medium,11
+836,6,Bi-weekly,Science,Group study,Daily,Easy,49
+837,5,Bi-weekly,Science,Online courses,Never,Easy,19
+838,5,Monthly,Math,Self-study,Weekly,Hard,23
+839,2,Monthly,Geography,Self-study,Never,Hard,36
+840,6,Bi-weekly,History,Self-study,Weekly,Medium,44
+841,5,Daily,English,Online courses,Weekly,Medium,21
+842,3,Weekly,Science,Online courses,Never,Hard,16
+843,8,Weekly,History,Tutoring,Daily,Easy,26
+844,5,Monthly,History,Self-study,Weekly,Easy,30
+845,5,Weekly,Math,Online courses,Weekly,Medium,45
+846,1,Bi-weekly,Math,Online courses,Never,Medium,22
+847,6,Monthly,Geography,Self-study,Never,Easy,17
+848,4,Bi-weekly,Science,Tutoring,Never,Hard,48
+849,5,Bi-weekly,History,Online courses,Weekly,Hard,32
+850,1,Monthly,History,Self-study,Weekly,Medium,34
+851,5,Daily,Math,Tutoring,Daily,Easy,23
+852,2,Weekly,History,Online courses,Never,Hard,10
+853,3,Monthly,Geography,Tutoring,Daily,Medium,32
+854,1,Monthly,English,Tutoring,Daily,Hard,15
+855,8,Bi-weekly,English,Tutoring,Daily,Hard,27
+856,7,Weekly,Math,Group study,Never,Hard,37
+857,3,Daily,English,Tutoring,Never,Easy,20
+858,3,Weekly,Geography,Tutoring,Daily,Easy,20
+859,7,Bi-weekly,Science,Online courses,Daily,Easy,48
+860,3,Monthly,History,Tutoring,Never,Hard,30
+861,1,Bi-weekly,Math,Tutoring,Never,Medium,17
+862,1,Weekly,English,Tutoring,Daily,Medium,24
+863,7,Monthly,Math,Group study,Never,Medium,18
+864,5,Weekly,History,Online courses,Never,Medium,18
+865,8,Monthly,Geography,Online courses,Weekly,Easy,31
+866,8,Bi-weekly,Science,Self-study,Weekly,Easy,33
+867,6,Daily,Geography,Group study,Never,Medium,7
+868,6,Weekly,Science,Online courses,Never,Easy,43
+869,5,Daily,Science,Online courses,Weekly,Medium,10
+870,2,Daily,History,Online courses,Weekly,Medium,19
+871,8,Bi-weekly,History,Online courses,Weekly,Medium,15
+872,4,Daily,Geography,Tutoring,Never,Hard,35
+873,2,Monthly,History,Tutoring,Daily,Hard,25
+874,5,Monthly,Math,Online courses,Never,Hard,25
+875,8,Daily,English,Online courses,Weekly,Medium,43
+876,4,Bi-weekly,History,Group study,Never,Hard,47
+877,6,Bi-weekly,History,Online courses,Weekly,Hard,43
+878,2,Monthly,English,Tutoring,Daily,Hard,15
+879,8,Monthly,Math,Group study,Daily,Hard,48
+880,3,Bi-weekly,Geography,Self-study,Never,Easy,19
+881,2,Bi-weekly,Geography,Tutoring,Weekly,Easy,41
+882,8,Bi-weekly,English,Tutoring,Daily,Easy,32
+883,1,Monthly,Math,Self-study,Daily,Medium,9
+884,5,Weekly,Science,Group study,Weekly,Easy,39
+885,4,Weekly,English,Group study,Weekly,Hard,48
+886,5,Weekly,Science,Self-study,Weekly,Hard,30
+887,4,Daily,Science,Tutoring,Never,Medium,9
+888,3,Weekly,Science,Tutoring,Weekly,Medium,41
+889,5,Bi-weekly,Math,Group study,Weekly,Easy,32
+890,5,Bi-weekly,English,Self-study,Daily,Easy,12
+891,4,Weekly,Math,Tutoring,Weekly,Hard,27
+892,5,Daily,Math,Online courses,Daily,Hard,16
+893,8,Daily,Geography,Online courses,Daily,Medium,48
+894,4,Daily,Math,Self-study,Daily,Medium,9
+895,4,Monthly,Science,Online courses,Never,Medium,39
+896,5,Bi-weekly,English,Self-study,Weekly,Hard,8
+897,5,Bi-weekly,Science,Group study,Never,Easy,35
+898,4,Daily,History,Group study,Weekly,Medium,33
+899,5,Bi-weekly,English,Self-study,Never,Hard,32
+900,7,Daily,Math,Tutoring,Daily,Hard,30
+901,5,Monthly,Geography,Online courses,Never,Hard,40
+902,1,Bi-weekly,History,Tutoring,Never,Medium,27
+903,8,Bi-weekly,History,Group study,Daily,Easy,41
+904,2,Weekly,Math,Online courses,Never,Easy,50
+905,5,Monthly,Geography,Group study,Never,Hard,33
+906,7,Daily,Geography,Tutoring,Weekly,Easy,34
+907,6,Monthly,History,Tutoring,Never,Hard,15
+908,7,Bi-weekly,Science,Group study,Never,Easy,16
+909,8,Daily,Geography,Self-study,Never,Easy,13
+910,4,Daily,History,Group study,Weekly,Hard,17
+911,1,Daily,Geography,Self-study,Never,Easy,23
+912,7,Bi-weekly,History,Online courses,Daily,Easy,50
+913,4,Bi-weekly,English,Self-study,Never,Hard,19
+914,7,Monthly,Geography,Online courses,Weekly,Easy,40
+915,5,Monthly,Math,Online courses,Never,Easy,44
+916,8,Weekly,Geography,Group study,Daily,Medium,34
+917,5,Weekly,History,Group study,Never,Easy,13
+918,4,Bi-weekly,English,Tutoring,Never,Hard,48
+919,6,Monthly,Geography,Self-study,Never,Easy,12
+920,3,Bi-weekly,Geography,Self-study,Daily,Medium,34
+921,2,Weekly,Science,Tutoring,Weekly,Easy,29
+922,3,Bi-weekly,Science,Self-study,Weekly,Medium,10
+923,2,Bi-weekly,Math,Self-study,Daily,Hard,40
+924,5,Monthly,Geography,Group study,Daily,Hard,15
+925,7,Daily,Math,Online courses,Weekly,Hard,25
+926,1,Weekly,History,Self-study,Never,Hard,13
+927,2,Monthly,History,Tutoring,Weekly,Easy,16
+928,6,Weekly,Geography,Tutoring,Never,Hard,14
+929,2,Bi-weekly,Math,Tutoring,Never,Hard,44
+930,1,Monthly,English,Group study,Never,Easy,24
+931,2,Weekly,History,Online courses,Weekly,Hard,25
+932,3,Bi-weekly,History,Online courses,Weekly,Hard,33
+933,3,Weekly,Geography,Online courses,Daily,Medium,5
+934,3,Weekly,Science,Group study,Weekly,Medium,45
+935,6,Bi-weekly,Science,Online courses,Never,Medium,21
+936,1,Daily,Science,Group study,Never,Medium,42
+937,7,Daily,History,Self-study,Daily,Hard,32
+938,7,Weekly,Science,Self-study,Daily,Easy,19
+939,6,Bi-weekly,Geography,Tutoring,Weekly,Hard,36
+940,2,Daily,Science,Group study,Weekly,Hard,49
+941,6,Daily,Science,Online courses,Never,Hard,5
+942,3,Bi-weekly,Math,Online courses,Daily,Medium,24
+943,4,Monthly,English,Tutoring,Weekly,Easy,8
+944,1,Bi-weekly,Geography,Group study,Daily,Easy,32
+945,4,Monthly,Science,Tutoring,Daily,Medium,8
+946,3,Monthly,Math,Self-study,Never,Hard,25
+947,2,Daily,Math,Tutoring,Daily,Hard,35
+948,1,Daily,English,Tutoring,Never,Medium,16
+949,1,Monthly,Geography,Group study,Daily,Easy,47
+950,1,Monthly,History,Online courses,Daily,Hard,8
+951,3,Bi-weekly,English,Tutoring,Never,Medium,46
+952,3,Daily,Geography,Tutoring,Daily,Hard,31
+953,7,Daily,Science,Group study,Never,Easy,39
+954,7,Monthly,Geography,Online courses,Never,Easy,18
+955,4,Bi-weekly,Science,Self-study,Weekly,Easy,22
+956,7,Daily,English,Self-study,Daily,Hard,8
+957,5,Monthly,English,Self-study,Weekly,Easy,40
+958,6,Weekly,Science,Group study,Weekly,Medium,19
+959,7,Daily,English,Group study,Daily,Medium,30
+960,4,Weekly,Geography,Self-study,Daily,Medium,36
+961,5,Weekly,Geography,Online courses,Weekly,Medium,35
+962,4,Weekly,Math,Group study,Never,Medium,10
+963,4,Daily,Science,Tutoring,Weekly,Medium,31
+964,1,Daily,History,Group study,Daily,Medium,43
+965,8,Weekly,History,Self-study,Daily,Easy,41
+966,8,Daily,History,Self-study,Weekly,Medium,36
+967,2,Daily,English,Group study,Never,Easy,30
+968,7,Bi-weekly,English,Self-study,Weekly,Medium,13
+969,2,Weekly,Geography,Group study,Weekly,Hard,16
+970,5,Weekly,Geography,Tutoring,Never,Easy,23
+971,8,Daily,Geography,Self-study,Never,Easy,14
+972,5,Weekly,Geography,Group study,Never,Easy,13
+973,1,Bi-weekly,Geography,Tutoring,Daily,Medium,19
+974,7,Monthly,Math,Tutoring,Never,Hard,41
+975,6,Bi-weekly,Math,Self-study,Never,Easy,37
+976,6,Daily,Geography,Tutoring,Daily,Medium,18
+977,3,Bi-weekly,English,Online courses,Daily,Easy,25
+978,3,Monthly,Math,Self-study,Never,Easy,49
+979,3,Monthly,Math,Online courses,Daily,Hard,28
+980,7,Monthly,Geography,Self-study,Never,Easy,20
+981,5,Monthly,History,Tutoring,Weekly,Hard,31
+982,5,Weekly,Math,Online courses,Weekly,Easy,43
+983,8,Monthly,Geography,Online courses,Daily,Easy,14
+984,5,Bi-weekly,Geography,Online courses,Daily,Easy,47
+985,2,Daily,Science,Self-study,Never,Hard,16
+986,1,Bi-weekly,Geography,Online courses,Never,Hard,38
+987,8,Monthly,Geography,Group study,Weekly,Easy,10
+988,6,Weekly,Math,Group study,Never,Easy,30
+989,6,Bi-weekly,English,Online courses,Never,Easy,24
+990,6,Monthly,English,Online courses,Daily,Hard,6
+991,4,Weekly,Geography,Online courses,Weekly,Hard,17
+992,7,Weekly,Geography,Self-study,Daily,Easy,21
+993,5,Weekly,Science,Self-study,Never,Easy,48
+994,8,Weekly,English,Self-study,Never,Hard,8
+995,7,Bi-weekly,Geography,Group study,Daily,Easy,9
+996,6,Bi-weekly,English,Self-study,Weekly,Easy,32
+997,2,Weekly,English,Tutoring,Never,Hard,41
+998,8,Weekly,Math,Group study,Daily,Easy,34
+999,7,Daily,Geography,Group study,Never,Medium,45
+1000,5,Daily,English,Group study,Weekly,Easy,41
