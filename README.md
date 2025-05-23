@@ -28,10 +28,10 @@ An AI-based personalized study assistant that helps students organize notes, mon
 
 2.	Run the app:
     ## Run in one terminal
-    python application.py
+    `python application.py`
     
     ## Open a new terminal and run
-    python -m streamlit run navigation.py
+    `python -m streamlit run navigation.py`
 
 3.	Open browser at: http://127.0.0.1:5000/
 
